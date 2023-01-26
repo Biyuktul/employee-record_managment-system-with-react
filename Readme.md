@@ -24,10 +24,10 @@
 ## Authors
 
 - [@Yonatan Addis](https://github.com/Biyuktul)
-- [Robel Asaminew]
-- [Mahlet Negash-12]
-- [Surafel Doju]
-- [Darik Demeke]
-- [Bereket Tewhibo]
-- [Amanuel Hagos]
-- [Seyfe Dereje]
+- Robel Asaminew
+- Mahlet Negash
+- Surafel Doju
+- Darik Demeke
+- Bereket Tewhibo
+- Amanuel Hagos
+- Seyfe Dereje
