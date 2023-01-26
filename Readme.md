@@ -11,16 +11,6 @@
 - 7. List Employee
 - 8. Logout
 - 9. Forget password
-
-## Screenshots
-
-### Landing Page
-
-![Screenshot](landpage.png)
-### Admin Page
-
-![Screenshot](adminpage.png)
-
 ## Authors
 
 - [@Yonatan Addis](https://github.com/Biyuktul)
@@ -31,3 +21,11 @@
 - Bereket Tewhibo
 - Amanuel Hagos
 - Seyfe Dereje
+  
+## Screenshots
+### Landing Page
+
+![Screenshot](landpage.png)
+### Admin Page
+
+![Screenshot](adminpage.png)
