@@ -16,11 +16,11 @@
 
 ### Landing Page
 
-![Screenshot](adminpage.png)
-
+![Screenshot](landpage.png)
 ### Admin Page
 
-![Screenshot](landpage.png)
+![Screenshot](adminpage.png)
+
 ## Authors
 
 - [@Yonatan Addis](https://github.com/Biyuktul)
