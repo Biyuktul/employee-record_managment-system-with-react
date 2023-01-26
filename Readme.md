@@ -24,5 +24,10 @@
 ## Authors
 
 - [@Yonatan Addis](https://github.com/Biyuktul)
-- [@Robel Asaminew](https://github.com/aastha2501)
-- [@Mahlet Negash-12](https://github.com/amandeep-singh-12)
+- [Robel Asaminew]
+- [Mahlet Negash-12]
+- [Surafel Doju]
+- [Darik Demeke]
+- [Bereket Tewhibo]
+- [Amanuel Hagos]
+- [Seyfe Dereje]
