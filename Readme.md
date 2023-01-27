@@ -21,6 +21,7 @@
 - Bereket Tewhibo
 - Amanuel Hagos
 - Seyfe Dereje
+- Maedot Agegnew
   
 ## Screenshots
 ### Landing Page
